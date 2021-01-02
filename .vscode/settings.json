@@ -1,3 +1,6 @@
 {
-    "python.pythonPath": "c:\\ESD_1\\venv\\Scripts\\python.exe"
+    "python.pythonPath": "c:\\ESD_1\\venv\\Scripts\\python.exe",
+    "appService.showBuildDuringDeployPrompt": false,
+    "appService.defaultWebAppToDeploy": "/subscriptions/192e1988-192c-4ce6-b27b-d5e354dde9e3/resourceGroups/udacity-cms-rg/providers/Microsoft.Web/sites/web-app-cms",
+    "appService.deploySubpath": "."
 }
